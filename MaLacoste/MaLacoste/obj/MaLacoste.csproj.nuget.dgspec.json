@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lacoste\\Desktop\\MaLacoste\\MaLacoste\\MaLacoste.csproj": {}
+    "C:\\Project\\Koena\\MaLacoste\\MaLacoste\\MaLacoste.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lacoste\\Desktop\\MaLacoste\\MaLacoste\\MaLacoste.csproj": {
+    "C:\\Project\\Koena\\MaLacoste\\MaLacoste\\MaLacoste.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lacoste\\Desktop\\MaLacoste\\MaLacoste\\MaLacoste.csproj",
+        "projectUniqueName": "C:\\Project\\Koena\\MaLacoste\\MaLacoste\\MaLacoste.csproj",
         "projectName": "MaLacoste",
-        "projectPath": "C:\\Users\\Lacoste\\Desktop\\MaLacoste\\MaLacoste\\MaLacoste.csproj",
+        "projectPath": "C:\\Project\\Koena\\MaLacoste\\MaLacoste\\MaLacoste.csproj",
         "packagesPath": "C:\\Users\\Lacoste\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lacoste\\Desktop\\MaLacoste\\MaLacoste\\obj\\",
+        "outputPath": "C:\\Project\\Koena\\MaLacoste\\MaLacoste\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

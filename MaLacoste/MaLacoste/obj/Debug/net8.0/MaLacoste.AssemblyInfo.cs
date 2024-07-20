@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaLacoste")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec8a26e32a8194ab6b8d68070feb0f028875b5d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaLacoste")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaLacoste")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lacoste\\Desktop\\MaLacoste\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Project\\Koena\\MaLacoste\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16222FAB-FAD7-4154-8871-6BE6BDD6FE2F}|MaLacoste\\MaLacoste.csproj|c:\\project\\koena\\malacoste\\malacoste\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16222FAB-FAD7-4154-8871-6BE6BDD6FE2F}|MaLacoste\\MaLacoste.csproj|solutionrelative:malacoste\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Project\\Koena\\MaLacoste\\MaLacoste\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MaLacoste\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Project\\Koena\\MaLacoste\\MaLacoste\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MaLacoste\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T13:52:27.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
